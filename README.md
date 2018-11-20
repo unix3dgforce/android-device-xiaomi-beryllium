@@ -6,7 +6,7 @@ TWRP device tree for Xiaomi Pocophone F1
 
 
 
-Xiaomi Mi MI 8 Explorer Edition was announced and released in June 2018.
+Xiaomi Pocophone F1 was announced and released in Augus 2018.
 
 ## Device specifications
 
